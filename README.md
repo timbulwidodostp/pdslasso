@@ -3,6 +3,8 @@ Programs for post-selection and post-regularization OLS or IV estimation and inf
 
 Programs for post selection & post regularization OLS or IV estimation  inference pdslasso STATA 18
 
+https://www.youtube.com/watch?v=RjewZIfjMPg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
